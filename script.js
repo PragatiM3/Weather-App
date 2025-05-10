@@ -20,9 +20,6 @@ button.addEventListener('click',(e)=>{
 });
 
 
-    // const apiWeather = fetch(
-    //    `http://api.weatherapi.com/v1/current.json?key=93d44eb041e64aa9a8b121046252103&q=London&aqi=no`
-    //  );
-    // apiWeather
-    //   .then((response) => response.json())
-    //   .then((data) => console.log(data.current.temp_c));
+
+    
+
